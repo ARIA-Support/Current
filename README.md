@@ -23,4 +23,4 @@ If you find an issue with current support for ARIA, please [file an issue](https
 Or join the repo and support the effort
 
 ## Current Contributors
-* [Joe Humbert] (https://github.com/jha11y)
+* [Joe Humbert](https://github.com/jha11y)
