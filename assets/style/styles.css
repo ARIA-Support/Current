@@ -400,6 +400,6 @@ code p {
 
 strong.question { font-family: "Roboto Slab", Cambria, Georgia, serif; color:#900;font-size:larger;font weight:bold}
 
-table#roles-overview-table > tr > th:first-of-type {
+table#roles-overview-table  tr  th:first-of-type {
   width:10em;
 }
